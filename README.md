@@ -80,31 +80,34 @@ We leverage advanced Artificial Intelligence models and autonomous coding assist
 
 ---
 
-## 📊 Performance Analytics & Intelligence
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobustCode-Incorporated&show_icons=true&theme=transparent" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobustCode-Incorporated&layout=compact&theme=transparent" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+## 📊 Performance Analytics & Open Source Intelligence
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Org_Status-Active-0e75b6?style=for-the-badge&logo=github" alt="Org Status" />
+  <img src="https://img.shields.io/badge/Main_Stack-Node.js_%2F_PostgreSQL-412991?style=for-the-badge&logo=node.js" alt="Main Stack" />
+  <img src="https://img.shields.io/badge/Architecture-Multi--tenant_/_Cloud-00f2fe?style=for-the-badge&logo=kubernetes&logoColor=black" alt="Architecture" />
+</p>
+
+---
+
+---
 
 ### 📈 Contribution History
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobustCode-Incorporated&theme=github-compact" width="100%" />
 </p>
 
-### 🏆 Engineering Scoreboard
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RobustCode-Incorporated&column=7" />
-</p>
+### 🏆 Engineering Achievements & Core Focus
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-Senior_Backend-0e75b6?style=flat-square&logo=git" alt="Rank" />
+  <img src="https://img.shields.io/badge/Focus-Data_Engineering-412991?style=flat-square&logo=postgresql" alt="Focus" />
+  <img src="https://img.shields.io/badge/Infrastructure-High_Availability-00f2fe?style=flat-square&logo=docker&logoColor=black" alt="Infrastructure" />
+  <img src="https://img.shields.io/badge/Security-Compliant-magenta?style=flat-square&logo=handshake" alt="Security" />
+</p>
 ---
 
 ## 🎖️ Verified Credentials & Certifications
