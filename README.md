@@ -108,7 +108,7 @@ We leverage advanced Artificial Intelligence models and autonomous coding assist
   <img src="https://img.shields.io/badge/Infrastructure-High_Availability-00f2fe?style=flat-square&logo=docker&logoColor=black" alt="Infrastructure" />
   <img src="https://img.shields.io/badge/Security-Compliant-magenta?style=flat-square&logo=handshake" alt="Security" />
 </p>
----
+
 
 ## 🎖️ Verified Credentials & Certifications
 
