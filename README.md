@@ -9,7 +9,7 @@
 <h1 align="center">Jean-Luc Luzemba</h1>
 
 <p align="center">
-  <b>Founder & CEO • Software Engineering Company • Enterprise Systems Builder</b>
+  <b>Founder • Software Engineering Company • Enterprise Systems Builder</b>
 </p>
 
 <p align="center">
