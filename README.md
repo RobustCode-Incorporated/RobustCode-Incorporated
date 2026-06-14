@@ -64,7 +64,7 @@ Building robust software platforms that prioritize:
 - Security
 - Developer Experience
 
-**Background:** Proven track record in designing multi-tenant software architectures and executing complex technical deployments internationally (Brussels, Paris).
+**Background:** Proven track record in designing multi-tenant software architectures and executing complex technical deployments internationally (Belgium , France, DRC, Rwanda ).
 
 ---
 
