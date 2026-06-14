@@ -63,6 +63,7 @@ Building robust software platforms that prioritize:
 - Scalability
 - Security
 - Developer Experience
+
 **Background:** Proven track record in designing multi-tenant software architectures and executing complex technical deployments internationally (Brussels, Paris).
 
 ---
