@@ -32,12 +32,38 @@
 
 ## 👨‍💻 About Me & Robust Code
 
-I am a **Backend & Data Software Engineer** and the Founder of **Robust Code S.a.r.l.** I focus on architecture, engineering, and deploying production-grade systems designed to solve complex operational challenges for corporations, governments, and public institutions.
+I am a **Backend & Data Software Engineer** | Founder of Robust Code S.a.r.l.
 
-With hands-on expertise in backend orchestration, database design, and cloud infrastructures, I bridge the gap between technical scalability and business requirements.
+I build scalable and resilient software systems for enterprises, governments, and public institutions.
 
-* **Core Focus:** Enterprise Software Architecture • Government Digital Transformation (GovTech) • Data Engineering • Mobile-First Platforms
-* **Background:** Proven track record in designing multi-tenant software architectures and executing complex technical deployments internationally (Brussels, Paris).
+My engineering philosophy is centered around:
+
+- Test-Driven Development (TDD)
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Event-Driven Systems
+- Cloud-Native Infrastructure
+- Continuous Integration & Delivery
+
+## Core Expertise
+
+- Backend Engineering
+- Data Engineering
+- Enterprise Software Architecture
+- GovTech Solutions
+- API & Microservices Design
+- Database Modeling & Performance Optimization
+- Cloud Infrastructure & Automation
+
+## Current Focus
+
+Building robust software platforms that prioritize:
+- Reliability
+- Maintainability
+- Scalability
+- Security
+- Developer Experience
+**Background:** Proven track record in designing multi-tenant software architectures and executing complex technical deployments internationally (Brussels, Paris).
 
 ---
 
